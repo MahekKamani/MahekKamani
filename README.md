@@ -142,9 +142,6 @@ I'm Mahek Kamani, a passionate software developer with strong interest in buildi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahekkamani&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="mahekkamani's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahekkamani&theme=default" alt="mahekkamani's GitHub streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekkamani&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahekkamani&theme=default" alt="mahekkamani's GitHub streak" />
 </div>
